@@ -27,7 +27,7 @@ To prove this point, I ran a controlled, 3-stage empirical test inside ChatGPT t
 ![Stage 1: Baseline Prompt Result](01_stage_1_baseline_prompt_slop.png)
 
 * **My Diagnosis:**
-  * **Cheesy AI Clichés:** The model immediately hallucinated every tired tech trope in the book: a floating translucent brain by the subject's ear, a glowing neon Tron loop around the waist, and a tacky yellow highlighter smear across the headline.
+  * **Cheesy AI Clichés:** The model immediately hallucinated every tired tech trope in the book: a floating translucent brain by the subject's ear, a glowing neon Tron loop around the waist, and a tacky yellow highlighter smear across the headline (which to be honest isn't bad at all).
   * **Lazy Metaphor:** It drew a literal, anonymous line of faceless clones staring backward like a cheap stock photo.
   * **The Double-Avatar Glitch:** Plastic skin, a synthetic polyester suit, and an awkward layout where I was drawn as both the giant model and a tiny corner circle.
   * **Zero Commercial Weight:** It slapped a tiny `"BLOG"` tag at the top, completely missing the executive authority of *Marketing Edge*.
