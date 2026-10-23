@@ -18,10 +18,10 @@ This repository documents a controlled, 3-stage empirical sprint demonstrating h
 
 ### Stage 1: The Baseline Prompt (Algorithmic Slop)
 * **Prompt Type:** Minimalist, unconstrained single-sentence request.
-* **Input Brief:** [prompts/01_stage_1_basic_prompt.txt](prompts/01_stage_1_basic_prompt.txt)
+* **Input Brief:** [01_stage_1_basic_prompt.txt](01_stage_1_basic_prompt.txt)
 * **Visual Result:**
 
-![Stage 1: Baseline Prompt Result](assets/01_stage_1_baseline_prompt_slop.png)
+![Stage 1: Baseline Prompt Result](01_stage_1_baseline_prompt_slop.png)
 
 * **Diagnostic & Failure Modes:**
   * **Cheesy Hallucinated Clichés:** The model defaults to stereotypical tech tropes; a floating translucent brain by the subject's ear, a swirling neon Tron loop around the waist, and a faux yellow highlighter brushstroke.
@@ -33,10 +33,10 @@ This repository documents a controlled, 3-stage empirical sprint demonstrating h
 
 ### Stage 2: The Uncalibrated High-Tech Prompt (The Ego Trap)
 * **Prompt Type:** Highly sophisticated camera optics and lighting physics, but lacking strict publisher brand architecture.
-* **Input Brief:** [prompts/02_stage_2_uncalibrated_advanced_prompt.txt](prompts/02_stage_2_uncalibrated_advanced_prompt.txt)
+* **Input Brief:** [02_stage_2_uncalibrated_advanced_prompt.txt](02_stage_2_uncalibrated_advanced_prompt.txt)
 * **Visual Result:**
 
-![Stage 2: Uncalibrated Advanced Prompt Result](assets/02_stage_2_uncalibrated_advanced_prompt.png)
+![Stage 2: Uncalibrated Advanced Prompt Result](02_stage_2_uncalibrated_advanced_prompt.png)
 
 * **Diagnostic & Failure Modes:**
   * **Over-Indexed Personal Headshot:** The model solved the aesthetic quality (rendering medium-format skin texture and wool blazer beautifully), but mistook the author for the primary visual hero, turning a thought leadership insight cover into a personal headshot flyer.
@@ -47,10 +47,10 @@ This repository documents a controlled, 3-stage empirical sprint demonstrating h
 
 ### Stage 3: The Calibrated Augmented Intelligence System (Masterwork)
 * **Prompt Type:** 15-parameter Fortune 100 Creative Director brief with exact publisher brand DNA, strict negative constraints, and a museum-grade conceptual physical metaphor.
-* **Input Brief:** [prompts/03_stage_3_master_augmented_prompt.txt](prompts/03_stage_3_master_augmented_prompt.txt)
+* **Input Brief:** [03_stage_3_master_augmented_prompt.txt](03_stage_3_master_augmented_prompt.txt)
 * **Visual Result:**
 
-![Stage 3: Augmented Intelligence Masterpiece](assets/03_stage_3_augmented_intelligence_masterpiece.png)
+![Stage 3: Augmented Intelligence Masterpiece](03_stage_3_augmented_intelligence_masterpiece.png)
 
 * **Key Breakthroughs & Enterprise Standards:**
   * **Intellectual Physical Metaphor:** Replaced cartoon brains with a fine-art installation on a white gallery plinth; a receding row of identical, faceless white geometric busts (The Sameness Trap) contrasted against a singular, hand-faceted obsidian and emerald-green sculpture (Brand Distinction).
@@ -75,15 +75,15 @@ To replicate these results across enterprise workflows, every generative product
 ## 4. Repository Structure
 
 ```text
-├── README.md                          # Master research documentation and visual benchmark
-├── assets/
-│   ├── 01_stage_1_baseline_prompt_slop.png
-│   ├── 02_stage_2_uncalibrated_advanced_prompt.png
-│   └── 03_stage_3_augmented_intelligence_masterpiece.png
-└── prompts/
-    ├── 01_stage_1_basic_prompt.txt
-    ├── 02_stage_2_uncalibrated_advanced_prompt.txt
-    └── 03_stage_3_master_augmented_prompt.txt
+├── README.md                                          # Master research documentation and visual benchmark
+├── LICENSE                                            # MIT Open-Source License
+├── 01_stage_1_baseline_prompt_slop.png               # Baseline generation
+├── 02_stage_2_uncalibrated_advanced_prompt.png       # Uncalibrated technical generation
+├── 03_stage_3_augmented_intelligence_masterpiece.png # Final calibrated masterwork
+├── 01_stage_1_basic_prompt.txt                       # Baseline prompt brief
+├── 02_stage_2_uncalibrated_advanced_prompt.txt       # Uncalibrated advanced brief
+└── 03_stage_3_master_augmented_prompt.txt            # Calibrated master brief
+
 ```
 
 ---
