@@ -1,0 +1,61 @@
+Act as a world-class Executive Creative Director, Master Advertising Art Director, and Luxury Editorial Designer with over 15 years of experience producing high-concept campaign visuals for Vogue Business, Wired, Fast Company, and Fortune 100 enterprise brands.
+
+Create a completed, masterwork editorial blog banner and digital feature cover in exact 1376 x 768 px (16:9 widescreen landscape aspect ratio) for an exclusive industry feature published on Marketing Edge.
+
+TOPIC: "Escape the Sameness Trap and Why 'Augmented Intelligence' Is the Real Secret to Brand Distinction."
+AUTHOR: Sam Adeyinka
+AUTHOR TITLE: Full-Stack Digital Marketing Specialist & Growth Strategist
+
+STRICT EXECUTION STANDARD: ABSOLUTE ZERO AI SLOP.
+Explicitly forbidden:
+- NO cheesy yellow highlighter streaks, fake brushstrokes, or decorative smears.
+- NO glowing neon energy rings, swirling light trails, or sci-fi Tron rings.
+- NO floating holographic brains, glowing neural nodes, or generic tech icons.
+- NO cheesy faceless clone armies or literal mannequin silhouettes.
+- NO plastic, waxy skin smoothing, hyper-sharpened teeth, or cartoonish CGI finishes.
+- NO synthetic, oversaturated polyester blazers.
+The visual must deliver supreme editorial authority, disciplined negative space, architectural typography, and the tactile restraint of a bespoke, multi-million-dollar high-fashion campaign photographed for an international quarterly journal.
+
+1. IMAGE REFERENCE & SUBJECT AUTHENTICITY (SAM ADEYINKA):
+Use the attached reference photo for the exact facial likeness, bone structure, natural skin tone, and grooming of Sam Adeyinka.
+- Subject: A striking, sophisticated Black male creative strategist in his late 20s to early 30s. Authentic, intelligent, calm authority. Natural facial proportions, realistic skin micro-texture, visible pores, natural laugh lines, and rich melanin undertones.
+- Expression: Quiet confidence, focused, discerning, and self-assured; maintaining a direct, commanding gaze toward the viewer. Absolutely no forced model grin and no robotic stare.
+- Hair & Grooming: Impeccably groomed natural short fade with crisp, authentic hairline and a neatly maintained, realistic beard with natural edge definition.
+- Styling & Wardrobe: Understated quiet luxury. An impeccably tailored, structured dark charcoal or matte midnight-black wool blazer featuring clean lapel lines and subtle fabric weave texture. Underneath: a minimalist matte black fine-gauge turtleneck or crew-neck knit. No loud jewelry, no gaudy accessories, and no plastic sheen.
+- Placement: Positioned powerfully in the right optical third of the 16:9 widescreen canvas, framed from mid-chest upward. Generous intentional negative space occupies the entire left and center areas to accommodate the editorial headline and branding lockups.
+
+2. LIGHTING & CAMERA PHYSICS:
+- Optical Simulation: Photographed on a Hasselblad H6D-100c medium format camera with an 80mm f/2.8 prime portrait lens.
+- Depth of Field: Razor-sharp focus on the subject's eyes, facial features, and collar lapels, transitioning into a natural, progressive falloff.
+- Lighting Design: Controlled high-end studio lighting. A large 5-foot octabox soft key light at 45 degrees providing soft, dimensional modeling across the face with deep, rich shadows that preserve full midtone texture. A delicate 3200K warm rim light subtly separates the shoulders and hair from the deep background. Zero blown highlights; smooth, filmic tonal roll-off.
+
+3. CANVAS, BACKGROUND & ART DIRECTION:
+- Background: A deep, tactile, architectural studio environment. A rich gradient transitioning from deep obsidian charcoal (#0D0F11) on the left to an atmospheric, soft warm graphite (#1A1D20) behind the subject.
+- Texture: Ultra-subtle analog film grain and delicate architectural linen/concrete micro-texture, giving the surface a premium, tactile, print-grade feel.
+- Spatial Concept: Instead of literal clones, convey "distinction" through sophisticated architectural contrast. In the deep background behind the subject, subtle, out-of-focus vertical architectural fins or gallery panels create geometric depth, symbolizing structural order and strategic clarity over chaotic digital noise.
+
+4. LOGO INTEGRATION & EDITORIAL BADGES (TOP SECTION):
+- Top-Left: Seamlessly integrate the provided Marketing Edge official logo in clean, crisp monochrome white or its official brand colors, maintaining generous breathing room from the canvas edges.
+- Adjacent Eyebrow Badge: Next to or directly below the logo, render a refined, tracked uppercase capsule tag in optical white and subtle gold/cream (#E5C478): "EXECUTIVE OP-ED // DIGITAL STRATEGY".
+
+5. ARCHITECTURAL TYPOGRAPHY & LAYOUT (LEFT & CENTER SECTION):
+Set all text with razor-sharp vector precision, disciplined baselines, and deliberate optical hierarchy:
+- Primary Headline (Optical Center-Left):
+  Set in a combination of high-contrast editorial Didot/Bodoni serif for punch words and Swiss grotesque (Neue Haas Grotesk / Inter) for structural balance. Rendered in crisp optical white (#FFFFFF) with a single deliberate accent word in refined champagne gold (#E5C478):
+  "Escape the Sameness Trap"
+  (With "Sameness Trap" set in prominent, elegant display typography).
+- Secondary Headline:
+  Directly below, set in clean, medium-weight Swiss grotesque sans-serif in soft warm alabaster (#D1D5DB):
+  "Why 'Augmented Intelligence' Is the Real Secret to Brand Distinction."
+  (Tight line spacing, tight letter-tracking, zero character distortion).
+
+6. AUTHOR CREDENTIALS LOCKUP (BOTTOM-LEFT):
+Positioned cleanly in the lower-left corner with substantial margin from the border:
+- Author Name: "Sam Adeyinka" in bold, elegant uppercase grotesque sans-serif (#FFFFFF, 16pt equivalent).
+- Author Title: "Full-Stack Digital Marketing Specialist & Growth Strategist" in refined, tracked muted warm grey (#9CA3AF, 12pt equivalent).
+- Visual Divider: A single, hair-thin 1px vertical accent line in muted champagne gold (#E5C478) anchoring the name and title.
+
+7. FINAL FINISH & COLOR GRADING:
+- Color Harmony: Dominant deep obsidian, rich graphite, crisp optical white typography, and subtle, restrained champagne gold accents (#E5C478).
+- Film Emulation: Fine medium-format analog grain, zero digital compression artifacts, zero cartoonish saturation.
+- Overall Impression: An elite, print-ready editorial cover feature that looks like it belongs on the front page of a high-end international marketing publication.

@@ -1,0 +1,60 @@
+Act as a world-class Executive Creative Director, Master Advertising Designer, and Senior Art Director for Marketing Edge Magazine. Create a completed, print-ready 1376 x 768 px (16:9 widescreen landscape) editorial cover graphic for a featured industry op-ed on marketingedge.com.ng.
+
+TOPIC: "Escape the Sameness Trap and Why 'Augmented Intelligence' Is the Real Secret to Brand Distinction."
+AUTHOR: Sam Adeyinka
+AUTHOR TITLE: Full-Stack Digital Marketing Specialist & Growth Strategist
+
+OFFICIAL BRAND PALETTE (MARKETING EDGE DNA):
+- Primary Canvas: Crisp, immaculate studio white (#FFFFFF) with subtle architectural contact shadows.
+- Logo & Brand Colors:
+  * Canary Yellow (#FFD500): The signature yellow from the top utility bar and the "MARKETING" logo container.
+  * Deep Crimson Red (#990000 / #8E0000): The signature brick-crimson from the "EDGE" logo container.
+  * Vibrant Emerald Green (#1EB53A): The high-conversion accent from the "POST YOUR COMMENT" CTA button, reading time tags, and section dashes.
+- Typography Ink: Deep Jet Black (#111111) for display headlines; Slate Graphite (#797986) for body metadata.
+
+STRICT EXECUTION STANDARD: ABSOLUTE ZERO AI SLOP.
+Explicitly forbidden:
+- NO cheesy yellow highlighter smears, marker strokes, or spray-paint brushstrokes.
+- NO swirling neon light ribbons, Tron energy loops, or glowing particle vortexes.
+- NO floating holographic brains, glowing neural circuits, or generic tech icons.
+- DO NOT make the author's face the giant hero subject.
+- NO waxy plastic skin, hyper-smoothing, or oversaturated 3D cartoon characters.
+The visual must display supreme editorial authority, disciplined negative space, architectural typography, and a disciplined Z-pattern scan path that screams high-end luxury editorial design.
+
+1. COMPOSITION & 50/50 ASYMMETRICAL EDITORIAL SPLIT (Z-PATTERN HIERARCHY):
+- Point 1 (Top-Left | Brand Anchor): The official Marketing Edge logo with the top yellow rule and category tag.
+- Point 2 (Center-Left | The Hook): The commanding 4-line headline with tight line spacing.
+- Point 3 (Lower-Left | The Authority): Clean author card with a mathematically perfect 1:1 circular photo avatar.
+- Point 4 (Right Half | The Conceptual Climax): The museum-grade physical sculpture installation capturing directional studio light.
+
+2. TOP BRAND ACCENTS (TOP-LEFT):
+- Across the very top-left edge, a sleek, razor-thin 4px horizontal accent bar in Marketing Edge Canary Yellow (#FFD500).
+- Positioned cleanly beneath it: The official Marketing Edge logo (the yellow "MARKETING" box + crimson red "EDGE" box, with "PROMOTING THE BRAND IDEA" below).
+- Adjacent Eyebrow Tag: A small, elegant tracked uppercase category tag in Slate Graphite (#797986) with a tiny 10px Vibrant Green (#1EB53A) accent dash:
+  "— OP-ED // DIGITAL STRATEGY & APPLIED AI"
+
+3. REVISED HEADLINE ARCHITECTURE (LEFT-CENTER | NO "AND"):
+Eliminate the word "and" completely. Format the headline in exactly 4 lines with razor-sharp Swiss grotesque vector precision (Flama / Neue Haas Grotesk Bold, tight line-height ~1.08, negative tracking -0.02em, perfectly left-aligned):
+- Line 1 (Display Bold, Jet Black #111111): "Escape the"
+- Line 2 (Display Bold, Jet Black #111111): "Sameness Trap"
+- Line 3 (Display Bold, in exact Marketing Edge Vibrant Green #1EB53A): "Why ‘Augmented Intelligence’"
+- Line 4 (Display Bold, Jet Black #111111): "Is the Real Secret to Brand Distinction."
+
+4. THE HERO CONCEPTUAL SCULPTURE (RIGHT HALF):
+DO NOT MAKE THE AUTHOR'S FACE THE HERO VISUAL.
+Create a stunning, high-fashion conceptual still-life installation resting on a minimalist off-white gallery plinth:
+- The Sameness Trap (Background): A receding perspective row of identical, blank, matte-white minimalist ceramic geometric human busts. They fade smoothly into a soft, shallow depth of field, symbolizing the endless sea of undifferentiated, generic automated AI outputs.
+- Brand Distinction (Foreground): Standing prominently in the front right optical third is ONE solitary, mastercrafted focal sculpture. This singular piece is sculpted from polished obsidian and matte dark graphite, featuring precision architectural facets, crisp chamfered edges, and deliberate insets finished in Marketing Edge Green (#1EB53A) and subtle Canary Yellow (#FFD500) accents. It commands the space with quiet authority and bespoke craftsmanship.
+- Camera & Optics: Shot on a Hasselblad H6D-100c medium-format digital camera with an 80mm f/2.8 portrait lens. Razor-sharp focus on the distinctive green-accented foreground sculpture with realistic soft contact shadows on the white plinth. Authentic physical textures; zero CGI gloss.
+
+5. AUTHOR CARD LOCKUP (BOTTOM-LEFT | MATHEMATICALLY PERFECT 1:1 CIRCLE):
+Positioned cleanly in the lower-left corner below the headline:
+- A clean, minimalist container card with a subtle 1px border (#E5E5E0) and pure white fill.
+- Author Avatar (Left): A mathematically perfect circular cutout (exact 1:1 aspect ratio, 85px diameter, NOT an oval, NOT an ellipse, NOT an egg shape) with a uniform 2px border ring in Vibrant Green (#1EB53A). Inside the circle is the realistic photographic headshot of Sam Adeyinka (using the attached reference photo: authentic Black male strategist with glasses, crisp grooming, and calm authority).
+- Credentials Lockup (Anchored directly to the right of the circular avatar):
+  * Name: "Sam Adeyinka" in bold, commanding Jet Black typography (#111111, 15pt equivalent).
+  * Title: "Full-Stack Digital Marketing Specialist & Growth Strategist" in crisp Slate Graphite (#797986, 11pt equivalent).
+  * Metadata Tag: A small pill badge with text: "Verified Contributor" with a tiny green dot (#1EB53A).
+
+6. COLOR HARMONY & RESTRAINT:
+Pristine white canvas (#FFFFFF), bold jet-black typography (#111111), authentic Marketing Edge Yellow (#FFD500) and Crimson Red (#990000) in the logo framing, and exact Marketing Edge Green (#1EB53A) on "Why ‘Augmented Intelligence’", the avatar ring, and the focal sculpture. Absolute luxury restraint, maximum editorial authority.
